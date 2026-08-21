@@ -10,6 +10,20 @@ The report merges order, user, restaurant, and menu-level data into a single ana
 
 ---
 
+ ## 🚦 Live Dashboard
+ 
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYzcwZTgwYTEtYTE5Yi00Mzc5LWEwOWUtNDA5YzQ1MTVjYWNmIiwidCI6IjNjZDA3OTg4LTUyNjMtNDA2NC1hZDU1LWU5NTZhYjNkZDExNyIsImMiOjEwfQ%3D%3D">
+    <img src="https://img.shields.io/badge/🚀_Launch_Live_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Launch Live Dashboard" />
+  </a>
+</p>
+<p align="center">
+  🖱️ <b>Click above</b> &nbsp;→&nbsp; 🌐 <b>Opens in browser</b> &nbsp;→&nbsp; 🚫 <b>No install needed</b> &nbsp;→&nbsp; 🖱️ <b>Fully interactive</b>
+</p>
+
+---
+
+
 ## 📊 Preview
 
 | Home | Overview | User Performance | City Performance |
