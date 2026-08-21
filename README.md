@@ -24,6 +24,13 @@ The report merges order, user, restaurant, and menu-level data into a single ana
 ---
 
 
+## 📂 Source Files
+If you want to explore the raw datasets and the project files, you can access them here:
+
+👉 **[Access Project Data & Files on Google Drive](https://drive.google.com/drive/folders/1JS_5fewffR4k5FQ12bkokm_Qs2D2dK_e)**
+
+---
+
 
 | Home | Overview | User Performance | City Performance |
 | :---: | :---: | :---: | :---: |
@@ -126,33 +133,19 @@ restaurant (Dimension)               menu / food (Dimension)
 
 ---
 
-## 📁 Repository Structure
 
-```
-FoodPanda-Dashboard/
-├── FoodPanda Dashboard.pbix     # Main Power BI report (data model + visuals)
-├── Data/                        # Source datasets (orders, users, menu, restaurant)
-├── Dashboard_Img/               # Static screenshots of each report page
-├── img/                         # Icons & background images used inside visuals
-├── Dashboard_Video/             # Screen-recorded walkthrough / demo of the dashboard
-├── Home.jpg
-├── Overview.jpg
-├── User_Performance.jpg
-├── City_Perfomance.jpg
-└── README.md
-```
-
----
 
 ## 🚀 How to Use
 
-1. Clone or download this repository.
-2. Open **`FoodPanda Dashboard.pbix`** in Power BI Desktop.
-3. If prompted, point the data source to the files inside the **`Data/`** folder and refresh.
-4. Navigate using the on-screen buttons, starting from the **Home** page.
-5. Use the **Amount / Quantity** toggle and the **City / Type** slicers on any page to drill into a specific segment.
+If you want to explore or run this project locally without cloning the repository, you can access the files directly:
+
+1. **Download Project Files:** Skip cloning and download all project files, datasets, and the `.pbix` report directly from the [Google Drive Repository](https://drive.google.com/drive/folders/1JS_5fewffR4k5FQ12bkokm_Qs2D2dK_e).
+2. **Open Power BI Report:** Launch **`FoodPanda Dashboard.pbix`** using Power BI Desktop.
+3. **Update Data Source Paths:** If prompted for data source paths upon opening, point them to the local directory where you extracted the **`Data/`** folder (via *Transform Data* > *Data Source Settings* in Power BI).
+4. **Explore the Dashboard:** Use the on-screen navigation buttons starting from the Home page, and interact with the slicers and toggles to analyze performance metrics.
 
 ---
+
 
 ## 📌 Key Insights
 
