@@ -24,11 +24,6 @@ The report merges order, user, restaurant, and menu-level data into a single ana
 ---
 
 
-## 📊 Preview
-
-| Home | Overview | User Performance | City Performance |
-|:---:|:---:|:---:|:---:|
-## 📊 Preview
 
 | Home | Overview | User Performance | City Performance |
 | :---: | :---: | :---: | :---: |
